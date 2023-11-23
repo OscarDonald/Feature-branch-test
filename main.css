@@ -1,3 +1,16 @@
 body {
-  background-color: grey;
+  background-color: blue;
+  color: yellow;
+}
+p {
+  color: green;
+}
+h2 {
+  color: purple;
+}
+h3 {
+  color: lightblue;
+}
+h4 {
+  color: lightyellow;
 }
